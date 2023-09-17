@@ -1,0 +1,21 @@
+**Menginisiasi Git / merubah folder biasa menjadi repository**
+git initial
+
+**Menyiapkan file untuk dimasukkan ke dalam repo**
+git add .
+
+**Memasukkan file ke dalam repository**
+git commit -m "pesan commit"
+
+**Config Untuk Connect Ke Github**
+git config --global user.name "username"
+git config --global user.email "email"
+
+**Memasukkan ke github**
+git push origin main
+
+**Mengambil dari github**
+git pull origin main
+
+**Clonning dari github**
+git clone https://github.com/vipcodestudio/belajar-connect-git.git
