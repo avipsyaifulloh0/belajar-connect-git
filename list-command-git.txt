@@ -1,5 +1,5 @@
 **Menginisiasi Git / merubah folder biasa menjadi repository**
-git initial
+git init
 
 **Menyiapkan file untuk dimasukkan ke dalam repo**
 git add .
