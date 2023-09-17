@@ -11,6 +11,9 @@ git commit -m "pesan commit"
 git config --global user.name "username"
 git config --global user.email "email"
 
+**Connect ke repository di cloud(github)**
+git remote add origin https://github.com/vipcodestudio/belajar-connect-git.git
+
 **Memasukkan ke github**
 git push origin main
 
